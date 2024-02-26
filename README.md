@@ -2,7 +2,7 @@
 # In the mars news jupyter notebook:
 # scraping mars news website to search for articles' titles and previews
 # save titles and previews in a dictionary format
-# output the dictionary file into a json file
+# output the dictionary into a json file
 # -----------------------------------------------------------------------
 # In the Mars weather jupyter notebook:
 # scraping mars data from the html page
