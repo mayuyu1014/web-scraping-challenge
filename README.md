@@ -1,5 +1,5 @@
-# In the mars news jupyter notebook:
 # web-scraping-challenge
+# In the mars news jupyter notebook:
 # scraping mars news website to search for articles' titles and previews
 # save titles and previews in a dictionary format
 # output the dictionary file into a json file
